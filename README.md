@@ -8,7 +8,7 @@ Our photographer who shot our wedding named the pictures in the following format
 Picture 1 being the first picture he took and 300 being the last picture he took.
 
 This looked fine in windows explorer but when uploaded to the Costco website I found picture it was ordered more like
-"John & Jane wedding photos 1"
+"John & Jane wedding photos 1" <p>
 "John & Jane wedding photos 10"
 "John & Jane wedding photos 100" 
 "John & Jane wedding photos 2" 
