@@ -1,6 +1,6 @@
 # PictureNaturalSorting
 
-This little program project came from a problem I encountered with the Costco photo printing website.
+This little programming project came from a problem I encountered with the Costco photo printing website.
 Our photographer who shot our wedding named the pictures in the following format.    
 "John & Jane wedding photos 1"   
 "John & Jane wedding photos 2"   
@@ -13,7 +13,7 @@ This looked fine in windows explorer but when uploaded to the Costco website I f
 "John & Jane wedding photos 100"    
 "John & Jane wedding photos 2"    
 
-Something like this blog post explains.
+Like this blog post explains.
 https://blog.codinghorror.com/sorting-for-humans-natural-sort-order/
 
 We were trying to make a picture book and wanted all of the pictures in chronological order and this combined with 
